@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de9a31e8-5fa6-4bc8-8dac-965424e8a1c2" name="Changes" comment="Basic Project Template">
-      <change afterPath="$PROJECT_DIR$/projects/templates/projects/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projects/templates/projects/detail.html" afterDir="false" />
+    <list default="true" id="de9a31e8-5fa6-4bc8-8dac-965424e8a1c2" name="Changes" comment="Complete template">
+      <change afterPath="$PROJECT_DIR$/herokuapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herokuapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herokuapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herokuapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herokuapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herokuapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/herokuapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/REQUESTED" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip-21.2.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/_distutils.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/_distutils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/_sysconfig.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/_sysconfig.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/locations/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/metadata/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/metadata/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/metadata/pkg_resources.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/metadata/pkg_resources.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/operations/install/legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/operations/install/legacy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/resolution/resolvelib/provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_internal/resolution/resolvelib/provider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_vendor/tenacity/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Lib/site-packages/pip/_vendor/tenacity/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Scripts/pip3.9.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Scripts/pip3.9.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/.env/Scripts/pip3.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/templates/projects/all_projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/templates/projects/all_projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/templates/projects/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628344572307</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete template">
+      <created>1628418086267</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628418086267</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +146,7 @@
     </ignored-roots>
     <MESSAGE value="View and Database" />
     <MESSAGE value="Basic Project Template" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Project Template" />
+    <MESSAGE value="Complete template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete template" />
   </component>
 </project>
