@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de9a31e8-5fa6-4bc8-8dac-965424e8a1c2" name="Changes" comment="Test">
+    <list default="true" id="de9a31e8-5fa6-4bc8-8dac-965424e8a1c2" name="Changes" comment="Initial Deployment">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/templates/projects/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/templates/projects/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628925362846</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial Deployment">
+      <created>1628926093649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628926093649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,6 +131,7 @@
     <MESSAGE value="Basic Project Template" />
     <MESSAGE value="Complete template" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Initial Deployment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Deployment" />
   </component>
 </project>
