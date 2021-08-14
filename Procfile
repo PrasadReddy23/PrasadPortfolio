@@ -1,1 +1,2 @@
-web: gunicorn herokuapp.wsgi
+web: gunicorn portfolio.wsgi
+
