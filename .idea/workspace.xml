@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de9a31e8-5fa6-4bc8-8dac-965424e8a1c2" name="Changes" comment="Initial Deployment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/templates/projects/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/templates/projects/base.html" afterDir="false" />
+    <list default="true" id="de9a31e8-5fa6-4bc8-8dac-965424e8a1c2" name="Changes" comment="Initial Deployment 2">
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628927042498</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial Deployment 2">
+      <created>1628928621870</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628928621870</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +144,7 @@
     <MESSAGE value="Complete template" />
     <MESSAGE value="Test" />
     <MESSAGE value="Initial Deployment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Deployment" />
+    <MESSAGE value="Initial Deployment 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Deployment 2" />
   </component>
 </project>
